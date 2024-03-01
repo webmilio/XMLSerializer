@@ -1,0 +1,1 @@
+Simple XML Deserializer library. Designed a while back, I'm uploading it here to not lose it. 
